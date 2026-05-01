@@ -1,0 +1,13 @@
+vegetation_id,tipo_vegetacao,inflamabilidade,descricao
+1,Pinheiro-bravo,alta,Pinus pinaster - Espécie resinosa com alta inflamabilidade devido ao conteúdo de resina
+2,Eucalipto,alta,Eucalyptus globulus - Árvore de crescimento rápido com casca e folhas altamente inflamáveis
+3,Sobreiro,media,Quercus suber - Cortiça oferece alguma proteção mas folhas secas são inflamáveis
+4,Azinheira,media,Quercus ilex - Folhagem perene com inflamabilidade moderada
+5,Carvalho,media,Quercus robur/pyrenaica - Folha caduca com inflamabilidade moderada
+6,Pinheiro-manso,alta,Pinus pinea - Conífera resinosa com alta inflamabilidade
+7,Castanheiro,baixa,Castanea sativa - Folha caduca com menor conteúdo inflamável
+8,Mato,alta,Vegetação arbustiva mediterrânica - Esteva cistus ladanifer urze e tojo altamente inflamáveis
+9,Acácia,alta,Acacia dealbata/melanoxylon - Espécie invasora muito inflamável
+10,Pastagem,baixa,Herbáceas e gramíneas - Baixa biomassa e humidade relativa maior
+11,Outras folhosas,media,Outras espécies de folha caduca - Freixo olmo etc
+12,Outras resinosas,alta,Outras coníferas - Cedro cipreste etc
